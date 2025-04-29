@@ -1,6 +1,4 @@
 # Power-BI-Shubh-Sales-E-Commerce-Dashboard
-New Repository
-.
 📊 Power BI Shubh E-Commerce Sales Performance Dashboard
 This repository hosts a Power BI dashboard that visualizes sales data with a focus on performance monitoring, trend analysis, and actionable insights. It is designed to help sales managers, business analysts, and stakeholders quickly understand key sales drivers and identify growth opportunities.
 
